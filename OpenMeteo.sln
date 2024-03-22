@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMeteo", "OpenMeteo\OpenMeteo.csproj", "{EA358544-D6D8-4829-BD4D-5EC50AB2E00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA358544-D6D8-4829-BD4D-5EC50AB2E00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA358544-D6D8-4829-BD4D-5EC50AB2E00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA358544-D6D8-4829-BD4D-5EC50AB2E00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA358544-D6D8-4829-BD4D-5EC50AB2E00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ACDB2C2-EA04-40BE-AF8E-B79EC6D85303}
+	EndGlobalSection
+EndGlobal
